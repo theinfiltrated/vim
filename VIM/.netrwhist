@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/mnt/venia/OpenVPN/VPN_Damiano/Zappulla/auth'
+let g:netrw_dirhist_2='/mnt/nbd/home'
